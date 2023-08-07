@@ -1,4 +1,4 @@
-# DependencyTrack-frontend-cn
+# [DependencyTrack-frontend](https://github.com/DependencyTrack/frontend)
 DependencyTrack-frontend 前端汉化项目
 
 
