@@ -107,7 +107,7 @@ services:
     restart: unless-stopped
 
   dtrack-frontend:
-    image: siruoren/dependencytrack_frontend_cn:4.8.1
+    image: siruoren/dependencytrack_frontend_cn:4.10.0
     depends_on:
       - dtrack-apiserver
     environment:
